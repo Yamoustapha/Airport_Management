@@ -1,4 +1,4 @@
-package com.saraya.airport_geoservice;
+package com.saraya.Airport_Geoservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
